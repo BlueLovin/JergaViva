@@ -1,6 +1,5 @@
 <script lang="ts">
 	import Textfield from '@smui/textfield';
-	import HelperText from '@smui/textfield/helper-text';
 	import CharacterCounter from '@smui/textfield/character-counter';
 	import Dialog, { Title, Content, Actions } from '@smui/dialog';
 	import Card from '@smui/card';
